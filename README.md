@@ -1,4 +1,4 @@
-This repository will archive the Python and R scripts used for the different analyses of the case studies in Chapter 6, Chapter 9 and Chapter 10 
+This repository archives the Python and R scripts used for the different analyses of the case studies in Chapter 6, Chapter 9 and Chapter 10 
 published in the forthcoming monograph: Geeraerts, Dirk, Dirk Speelman, Kris Heylen, Mariana Montes, Stefano De Pascale, Karlien Franco, and Michael Lang (to appear, 2023).
 Lexical Variation and Change: A Distributional Semantic Approach. Oxford: Oxford University Press.
 
