@@ -10,9 +10,9 @@ import pandas as pd
 import scipy as sp
 import sys, re, random
 
-nephosemdir = "/YOUR/PATH/TO/NEPHOSEM" # see https://github.com/QLVL/semasioFlow
+nephosemdir = "/YOUR/PATH/TO/NEPHOSEM" # see https://github.com/QLVL/nephosem
 sys.path.append(nephosemdir)
-semasioFlowdir = "/YOUR/PATH/TO/SEMASIOFLOW" # see https://github.com/QLVL/nephosem
+semasioFlowdir = "/YOUR/PATH/TO/SEMASIOFLOW" # see https://github.com/QLVL/semasioFlow
 sys.path.append(semasioFlowdir)
 
 from nephosem.conf import ConfigLoader # to setup the configuration
